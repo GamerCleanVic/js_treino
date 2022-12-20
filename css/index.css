@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'FingerPaint';
+    src: url('../arquivos/fontes/Finger_Paint/FingerPaint-Regular.ttf') format('truetype')
+}
+@font-face {
+    font-family: 'Courgette';
+    src: url('../arquivos/fontes/Courgette/Courgette-Regular.ttf') format('truetype')
+}
+@font-face {
+    font-family: 'Pacifico';
+    src: url('../arquivos/fontes/Pacifico/Pacifico-Regular.ttf') format('truetype')
+}
+body{
+    background-color: #181818;
+    color: #ccc;
+}
+.caixa1{
+    margin-bottom: 3px;
+}
+.form1{
+    background-color: lightgreen;
+    border-radius: 5px;
+    padding: 5px;
+}
+.tituloUm{
+    font-family: FingerPaint, Arial;
+    font-transform: lowercase;
+}
